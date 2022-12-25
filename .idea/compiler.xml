@@ -9,15 +9,17 @@
         <outputRelativeToContentRoot value="true" />
         <module name="common-api" />
         <module name="radar-service" />
-        <module name="immatriculation-service" />
         <module name="infraction" />
+        <module name="immatriculation-service" />
+        <module name="Gateway" />
         <module name="Eureka-discovery-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="common-api" target="1.8" />
       <module name="eureka-discovery-service" target="1.8" />
-      <module name="Eureka-discovery-service" target="16" />
+      <module name="Eureka-discovery-service" target="1.8" />
+      <module name="Gateway" target="1.8" />
       <module name="gateway" target="1.8" />
       <module name="immatriculation-service" target="1.8" />
       <module name="infraction" target="1.8" />
@@ -28,6 +30,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Eureka-discovery-service" options="-parameters" />
+      <module name="Gateway" options="-parameters" />
       <module name="common-api" options="-parameters" />
       <module name="eureka-discovery-service" options="-parameters" />
       <module name="gateway" options="-parameters" />

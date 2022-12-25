@@ -40,7 +40,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DistributedSystems-BigDataProcessing/MicroServiceTp_/eureka-discovery-service" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -72,6 +72,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="radar-cqrt-ms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="radar-cqrt-ms" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CommonApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="common-api" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="ma.enset.commonapi.CommonApiApplication" />
@@ -89,6 +102,13 @@
     <configuration name="EurekaDiscoveryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="eureka-discovery-service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="ma.enset.eurekadiscoveryservice.EurekaDiscoveryServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ma.enset.gateway.GatewayApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -156,6 +176,7 @@
       <workItem from="1671969516106" duration="7631000" />
       <workItem from="1671983309531" duration="3196000" />
       <workItem from="1671989304361" duration="5278000" />
+      <workItem from="1672005448770" duration="162000" />
     </task>
     <servers />
   </component>
