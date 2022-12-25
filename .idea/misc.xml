@@ -6,6 +6,8 @@
         <option value="$PROJECT_DIR$/radar-service/pom.xml" />
         <option value="$PROJECT_DIR$/common-api/pom.xml" />
         <option value="$PROJECT_DIR$/immatriculation-service/pom.xml" />
+        <option value="$PROJECT_DIR$/infraction/pom.xml" />
+        <option value="$PROJECT_DIR$/Eureka-discovery-service/pom.xml" />
       </list>
     </option>
   </component>

@@ -40,7 +40,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/immatriculation-service/src/main/java/ma/enset/immatriculationservice/immatriculationQuery" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DistributedSystems-BigDataProcessing/MicroServiceTp_/eureka-discovery-service" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -48,17 +48,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\agher\S5\System-distribues\examenBlan\radar-cqrt-ms\immatriculation-service\src\main\java\ma\enset\immatriculationservice\immatriculationQuery" />
-      <recent name="C:\Users\agher\S5\System-distribues\examenBlan\radar-cqrt-ms\immatriculation-service\src\main\java\ma\enset\immatriculationservice\immatriculationCommands" />
+      <recent name="C:\Users\agher\S5\System-distribues\examenBlan\radar-cqrt-ms\infraction\src\main\java\ma\enset\infraction\infractionQuery" />
       <recent name="C:\Users\agher\S5\System-distribues\examenBlan\radar-cqrt-ms\common-api\src\main\java\ma\enset\commonapi\query" />
       <recent name="C:\Users\agher\S5\System-distribues\examenBlan\radar-cqrt-ms\common-api\src\main\java\ma\enset\commonapi\events" />
       <recent name="C:\Users\agher\S5\System-distribues\examenBlan\radar-cqrt-ms\common-api\src\main\java\ma\enset\commonapi\dtos" />
+      <recent name="C:\Users\agher\S5\System-distribues\examenBlan\radar-cqrt-ms\common-api\src\main\java\ma\enset\commonapi\Commands" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="ma.enset.immatriculationservice" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.ImmatriculationServiceApplication">
+  <component name="RunManager" selected="Spring Boot.EurekaDiscoveryServiceApplication (1)">
     <configuration name="RadarServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ma.enset.radarservice.RadarServiceApplication" />
       <module name="radar-service" />
@@ -75,6 +75,13 @@
     <configuration name="CommonApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="common-api" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="ma.enset.commonapi.CommonApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaDiscoveryServiceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Eureka-discovery-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ma.enset.eurekadiscoveryservice.EurekaDiscoveryServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -103,6 +110,13 @@
     <configuration name="ImmatriculationServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="immatriculation-service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="ma.enset.immatriculationservice.ImmatriculationServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InfractionApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="infraction" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ma.enset.infraction.InfractionApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -141,7 +155,7 @@
       <workItem from="1671921598250" duration="5560000" />
       <workItem from="1671969516106" duration="7631000" />
       <workItem from="1671983309531" duration="3196000" />
-      <workItem from="1671989304361" duration="802000" />
+      <workItem from="1671989304361" duration="5278000" />
     </task>
     <servers />
   </component>
