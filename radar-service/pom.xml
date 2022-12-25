@@ -18,6 +18,7 @@
         <spring-cloud.version>2021.0.4</spring-cloud.version>
     </properties>
     <dependencies>
+
 <!--        <dependency>-->
 <!--            <groupId>org.springframework.boot</groupId>-->
 <!--            <artifactId>spring-boot-starter</artifactId>-->
@@ -28,6 +29,7 @@
 <!--            <artifactId>spring-boot-starter-test</artifactId>-->
 <!--            <scope>test</scope>-->
 <!--        </dependency>-->
+
         <dependency>
             <groupId>ma.enset</groupId>
             <artifactId>common-api</artifactId>
@@ -63,13 +65,18 @@
         <dependency>
             <groupId>org.axonframework</groupId>
             <artifactId>axon-spring-boot-starter</artifactId>
-            <version>4.4.3</version>
+            <version>4.6.2</version>
             <exclusions>
                 <exclusion>
                     <groupId>org.axonframework</groupId>
                     <artifactId>axon-server-connector</artifactId>
                 </exclusion>
             </exclusions>
+        </dependency>
+        <dependency>
+            <groupId>org.springdoc</groupId>
+            <artifactId>springdoc-openapi-ui</artifactId>
+            <version>1.6.12</version>
         </dependency>
     </dependencies>
 

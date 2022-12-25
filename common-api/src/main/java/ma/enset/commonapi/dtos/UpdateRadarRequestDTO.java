@@ -1,11 +1,15 @@
 package ma.enset.commonapi.dtos;
 
+
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-@Data @NoArgsConstructor @AllArgsConstructor
-public class CreateRadarRequestDTO {
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+public class UpdateRadarRequestDTO {
+    private  String id ;
     private double MaxVitesse ;
     private double longtitude ;
     private  double latitude ;

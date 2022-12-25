@@ -1,14 +1,16 @@
-package ma.enset.commonapi.commands;
+package ma.enset.commonapi.Commands;
 
-import lombok.Getter;
 import org.axonframework.modelling.command.TargetAggregateIdentifier;
 
-public abstract class BaseCommand<T> {
+public class BaseCommand<T> {
     @TargetAggregateIdentifier
-    @Getter public T id;
+    private  T id ;
 
-    public BaseCommand(T id) {
+    public  BaseCommand(T id){
         this.id = id;
     }
 
+    public T getId() {
+        return id;
+    }
 }

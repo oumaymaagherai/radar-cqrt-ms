@@ -1,11 +1,11 @@
-package ma.enset.commonapi.events;
+package ma.enset.commonapi.Commands;
 
-public class RadarCreatedEvent extends BaseEvent<String> {
+public class UpdateRadarCommand  extends BaseCommand<String>{
     private double MaxVitesse ;
     private double longtitude ;
     private  double latitude ;
 
-    public RadarCreatedEvent(String id, double maxVitesse, double longtitude, double latitude) {
+    public UpdateRadarCommand(String id, double maxVitesse, double longtitude, double latitude) {
         super(id);
         MaxVitesse = maxVitesse;
         this.longtitude = longtitude;

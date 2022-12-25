@@ -5,7 +5,6 @@
       <list>
         <option value="$PROJECT_DIR$/radar-service/pom.xml" />
         <option value="$PROJECT_DIR$/common-api/pom.xml" />
-        <option value="$PROJECT_DIR$/immatriculation-service/pom.xml" />
       </list>
     </option>
   </component>
