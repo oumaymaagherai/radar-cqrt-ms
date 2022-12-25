@@ -40,7 +40,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/radar-service/src/main/java/ma/enset/radarservice" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/immatriculation-service/src/main/java/ma/enset/immatriculationservice/immatriculationQuery" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -48,17 +48,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\agher\S5\System-distribues\examenBlan\radar-cqrt-ms\radar-service\src\main\java\ma\enset\radarservice" />
-      <recent name="C:\Users\agher\S5\System-distribues\examenBlan\radar-cqrt-ms\common-api\src\main\java\ma\enset\commonapi" />
-      <recent name="C:\Users\agher\S5\System-distribues\examenBlan\radar-cqrt-ms\immatriculation-service\src\main\java\ma\enset\immatriculationservice" />
-      <recent name="C:\Users\agher\S5\System-distribues\examenBlan\radar-cqrt-ms\common-api\src\main\java\ma\enset\commonapi\commands" />
-      <recent name="C:\Users\agher\S5\System-distribues\examenBlan\radar-cqrt-ms\immatriculation-service\src\main\java" />
+      <recent name="C:\Users\agher\S5\System-distribues\examenBlan\radar-cqrt-ms\immatriculation-service\src\main\java\ma\enset\immatriculationservice\immatriculationQuery" />
+      <recent name="C:\Users\agher\S5\System-distribues\examenBlan\radar-cqrt-ms\immatriculation-service\src\main\java\ma\enset\immatriculationservice\immatriculationCommands" />
+      <recent name="C:\Users\agher\S5\System-distribues\examenBlan\radar-cqrt-ms\common-api\src\main\java\ma\enset\commonapi\query" />
+      <recent name="C:\Users\agher\S5\System-distribues\examenBlan\radar-cqrt-ms\common-api\src\main\java\ma\enset\commonapi\events" />
+      <recent name="C:\Users\agher\S5\System-distribues\examenBlan\radar-cqrt-ms\common-api\src\main\java\ma\enset\commonapi\dtos" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="ma.enset.immatriculationservice" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.CommonApiApplication">
+  <component name="RunManager" selected="Spring Boot.ImmatriculationServiceApplication">
     <configuration name="RadarServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ma.enset.radarservice.RadarServiceApplication" />
       <module name="radar-service" />
@@ -140,7 +140,8 @@
       <workItem from="1671918827550" duration="2619000" />
       <workItem from="1671921598250" duration="5560000" />
       <workItem from="1671969516106" duration="7631000" />
-      <workItem from="1671983309531" duration="283000" />
+      <workItem from="1671983309531" duration="3196000" />
+      <workItem from="1671989304361" duration="802000" />
     </task>
     <servers />
   </component>

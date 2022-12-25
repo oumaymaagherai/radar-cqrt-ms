@@ -5,7 +5,6 @@ public class BaseEvent <T> {
     public BaseEvent(T id ){
         this.id =id ;
     }
-
     public T getId() {
         return id;
     }

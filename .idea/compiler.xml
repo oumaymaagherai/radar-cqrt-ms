@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="common-api" />
         <module name="radar-service" />
+        <module name="immatriculation-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
